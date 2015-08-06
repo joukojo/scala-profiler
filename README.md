@@ -1,6 +1,10 @@
 # scala-profiler
 library for profiling code
 
+## Compilation 
+
+    sbt package publishLocal
+
 ## Basic usage
   
 	  Profiler.profile {
