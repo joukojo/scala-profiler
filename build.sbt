@@ -1,5 +1,7 @@
 name := "scala-profiler"
 
+organization := "org.yogocodes"
+
 version := "0.0.2-SNAPSHOT"
 
 scalaVersion := "2.11.7"
